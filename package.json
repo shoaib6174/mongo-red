@@ -1,5 +1,8 @@
 {
   "name": "mongo-red",
+  "engines": {
+    "node": "12.6.x"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,8 +22,6 @@
   "bugs": {
     "url": "https://github.com/shoaib6174/mongo-red/issues"
   },
-  "homepage": "https://github.com/shoaib6174/mongo-red#readme",
-  "engines": {
-    "node": "12.6.1"
-  }
+  "homepage": "https://github.com/shoaib6174/mongo-red#readme"
+  
 }
