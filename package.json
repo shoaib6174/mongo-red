@@ -1,0 +1,23 @@
+{
+  "name": "mongo-red",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index",
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoaib6174/mongo-red.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shoaib6174/mongo-red/issues"
+  },
+  "homepage": "https://github.com/shoaib6174/mongo-red#readme"
+}
