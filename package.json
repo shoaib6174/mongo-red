@@ -15,12 +15,12 @@
     "url": "git+https://github.com/shoaib6174/mongo-red.git"
   },
   "author": "",
-  "engines": {
-    "node": "12.6.x"
-  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shoaib6174/mongo-red/issues"
   },
-  "homepage": "https://github.com/shoaib6174/mongo-red#readme"
+  "homepage": "https://github.com/shoaib6174/mongo-red#readme",
+  "engines": {
+    "node": "12.6.1"
+  }
 }
